@@ -14,6 +14,13 @@ This is a tool to help you make better property investment decisions.
 [another one](https://www.growthhacking.fr/t/bypass-datadome-seloger/28980/6)
 **BIBLE** [ALL WAY](https://github.com/TheWebScrapingClub/webscraping-from-0-to-hero/blob/main/Pages/3.Free%20Tools/Playwright.md)
 
+
+# Playwright
+https://www.youtube.com/watch?v=H2-5ecFwHHQ&ab_channel=JohnWatsonRooney
+https://www.youtube.com/watch?v=IUOl4W_3tTg&ab_channel=JohnWatsonRooney
+https://www.youtube.com/watch?v=0wO7K-SoUHM&ab_channel=JohnWatsonRooney
+https://www.youtube.com/watch?v=9zwyfrVv3hg&ab_channel=Joshtriedcoding ++++
+
 [project1](https://github.com/andreybavt/Hobo-Sapiens)
 [project2](https://github.com/Fluximmo/api-immo-scrapper-leboncoin-pap)
 
